@@ -4,7 +4,63 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69617bfc-5333-4352-8f98-bbfeccb0c205" name="更改" comment="" />
+    <list default="true" id="69617bfc-5333-4352-8f98-bbfeccb0c205" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hugo_build.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NovsoleHomePage.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NovsoleHomePage.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archetypes/default.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hugo_default.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/archetypes/default.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/hugo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/images/mock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/images/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/images/tn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/layouts/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/layouts/_default/baseof.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/layouts/_default/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/layouts/_default/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/layouts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/layouts/partials/cards.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/layouts/partials/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/layouts/partials/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/layouts/partials/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/layouts/partials/randImage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/layouts/partials/search-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/layouts/partials/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/layouts/search/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/fonts/OpenSauceOne-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/fonts/OpenSauceOne-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/images/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/images/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/images/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/images/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/images/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/images/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/images/fav/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/images/fav/android-chrome-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/images/fav/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/images/fav/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/images/fav/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/images/fav/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/images/fav/site.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/js/lunr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/js/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/social/email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/social/instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/social/twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/static/social/x.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/quint/theme.toml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +120,7 @@
       <workItem from="1715029665613" duration="6105000" />
       <workItem from="1715037386878" duration="69000" />
       <workItem from="1715037474615" duration="7645000" />
-      <workItem from="1715047072802" duration="3010000" />
+      <workItem from="1715047072802" duration="4858000" />
     </task>
     <servers />
   </component>

@@ -1,5 +1,0 @@
-baseURL = 'https://Novosle.edu.org/'
-languageCode = 'zh-CN'
-title = 'Novosle Home Page'
-
-theme = "quint"
