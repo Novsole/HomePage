@@ -1,0 +1,28 @@
+# Theme config. Your config (yoursite/hugo.toml) overrides this one.
+
+paginate = 4                        # 要在列表页上显示的帖子数
+summaryLength = 20                  # 卡片摘要中的字符数
+
+[params]
+css = ["css/custom.css"]            # 您的自定义 CSS 覆盖，存储在 yoursite/static/ 中
+numImages = 10                      # 横幅可供选择的随机图像数量 (in themes/quint/static/images)
+
+# [[params.social]]                 # Customize your social links below!
+#     url = "https://twitter.com"
+#     icon = "/social/twitter.svg"
+#     name = "Twitter"
+
+# [[params.social]]
+#     url = "https://x.com"
+#     icon = "/social/x.svg"
+#     name = "X"
+
+# [[params.social]]
+#     url = "mailto:me"
+#     icon = "/social/email.png"
+#     name = "Email"
+
+# [[params.social]]
+#     url = "https://instagram.com"
+#     icon = "/social/instagram.svg"
+#     name = "Instagram"
